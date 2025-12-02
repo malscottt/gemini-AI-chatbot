@@ -13,4 +13,9 @@
 
 4. paste telegram token and gemini token into `.env`.
 
-5. run the bot: python main.py
+5. change the model name in `verify_setup.py` and `main.py`
+
+6.run the bot
+   ```bash
+   python main.py
+   ```
